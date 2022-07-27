@@ -1,3 +1,6 @@
 [submodule "ncgumx-1-basic"]
 	path = ncgumx-1-basic
 	url = https://github.com/l3costa/ncgumx-1-basic.git
+[submodule "ncgumx-2-workflow-debugging"]
+	path = ncgumx-2-workflow-debugging
+	url = https://github.com/l3costa/ncgumx-2-work-flow-debugging.git
