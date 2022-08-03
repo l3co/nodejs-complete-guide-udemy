@@ -4,3 +4,6 @@
 [submodule "ncgumx-2-workflow-debugging"]
 	path = ncgumx-2-workflow-debugging
 	url = https://github.com/l3costa/ncgumx-2-work-flow-debugging.git
+[submodule "ncgumx-5-express-js"]
+	path = ncgumx-5-express-js
+	url = git@github.com:l3costa/ncgumx-5-express-js.git
