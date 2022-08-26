@@ -7,3 +7,6 @@
 [submodule "ncgumx-5-express-js"]
 	path = ncgumx-5-express-js
 	url = git@github.com:l3costa/ncgumx-5-express-js.git
+[submodule "ncgumx-6-templates-engine"]
+	path = ncgumx-6-templates-engine
+	url = git@github.com:l3costa/ncgumx-6-templates-engine.git
